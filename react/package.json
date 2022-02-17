@@ -1,0 +1,31 @@
+{
+  "name": "pngr",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.14.0",
+    "react-cookie": "^3.1.2",
+    "react-dom": "^16.14.0",
+    "react-helmet": "^6.1.0",
+    "react-router-dom": "^5.2.1",
+    "react-scripts": "^4.0.3",
+    "semantic-ui-react": "0.88.1"
+  },
+  "scripts": {
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test",
+    "eject": "craco eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "@craco/craco": "^6.2.0",
+    "@semantic-ui-react/craco-less": "^1.2.3",
+    "semantic-ui-less": "^2.4.1"
+  }
+}
